@@ -3,6 +3,7 @@ import ContactButton from './components/ContactButton';
 import ContactHeader from './components/ContactHeader';
 
 
+
 function Contact() {
 	return (
 		<div  className='page'>

@@ -16,15 +16,15 @@ class App extends Component {
 				<Router>
 					<div>
 						<Navbar />
-						<Switch>
-							<Route path="/" exact component={Home} />
-							<Route path="/About" component={About} />
-							<Route path="/Portfolio" component={Portfolio} />
-							<Route path="/Contact" component={Contact} />
-						</Switch>
+						   <Switch>
+								<Route path="/" exact component={Home} />
+								<Route path="/About" component={About} />
+								<Route path="/Portfolio" component={Portfolio} />
+								<Route path="/Contact" component={Contact} />
+						 </Switch>
+						
 					</div>
 				</Router>
-
 				{/* <Card
 					contact={{
 						imageUrl:

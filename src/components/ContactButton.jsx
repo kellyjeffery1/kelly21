@@ -1,15 +1,31 @@
 import React, { Component } from 'react';
 import { Container, Row, Col } from 'reactstrap';
+import {motion} from 'framer-motion'
 
 
 class ContactButtons extends Component {
 	render() {
+		const shouldShowActions = false;
+		const [lastYPos, setLastYPos] = React.useState(0);
+	 React.useEffec(() => {
+
+		function handleScroll() {
+			console.log('scrolled')
+		}
+
+		window.addEventListener('scroll', handleScroll, false);
+
+		 return () => {
+			 window.removeEventListener('scroll', handleScroll, false);
+		 };
+	
+		}, [lastYPos]);
 		return (
 			<div className="contact-container">
 				<Container>
 					<Row>
 						<Col sm={6}>
-							<div className="SM-buttons">
+							<motion.div className="SM-buttons" animate={{ opactiy: 1 }} initial={{ opactiy: shouldShowActions ? 1 : 0 }}>
 								<ul className="contact-ul">
 									<li className="contact-li">
 										<a target="blank" href="https://github.com/kellyjeffery1">
@@ -48,7 +64,7 @@ class ContactButtons extends Component {
 										</a>
 									</li>
 								</ul>
-							</div>
+							</motion.div>
 						</Col>
 						<Col sm={6}>
 							<div className="contact-information">
