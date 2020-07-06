@@ -53,8 +53,17 @@
 }
 
 .slides .slick-next {
-	right: 23%;
+	right: 19%;
 	color: #9c5fa3;
+}
+.slick-prev:before, .slick-next:before {
+    font-family: 'slick';
+    font-size: 20px;
+    line-height: 1;
+    opacity: .75;
+    color: #e59500;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 .carousel {
 	margin-top: 35%;

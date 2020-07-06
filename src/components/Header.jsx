@@ -15,6 +15,12 @@ function Header() {
 						.
 					</span>
 				</h1>
+				<h3 className="job-title">
+				  Front-End Developer
+					<span className="full-stop" style={{ color: '#CA8DFB' }}>
+						.
+					</span>
+				</h3>
 			</div>
 		</header>
 

@@ -11,7 +11,7 @@ class ContactHeader extends Component {
                 </div> 
                 <div className="contact-title-container">
 					<h1 className="contact-title">
-						CONATCT
+						CONTACT
 						<span className="full-stop" style={{ color: '#CA8DFB' }}>
 							.
 						</span>
