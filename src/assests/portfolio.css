@@ -125,7 +125,7 @@
 
 .airbaby-carousel {
 	margin-top: 30%;
-	margin-left: 10%;
+	margin-left: 5%;
 }
 
 .bookmark-section {
@@ -152,9 +152,9 @@ a:hover {
 	color: #1f0322;
 }
 .airbaby-image {
-	height: 300px;
-	width: 450px;
-	border-radius: 5%;
+	height: 350px;
+    width: 500px;
+    border-radius: 5%;
 }
 .project-section{
 	margin-top: 5%;
