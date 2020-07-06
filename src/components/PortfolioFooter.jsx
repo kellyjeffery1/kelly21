@@ -14,7 +14,7 @@ class PortfolioFooter extends Component {
 								<span />
 								<span />
 								<span />
-								<span className="fa fa-copyright" />
+								<span className="fa fa-user" />
 						</li>
 					</ul>	
 				</Link>
