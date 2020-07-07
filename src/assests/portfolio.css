@@ -219,7 +219,8 @@ h3{
 		margin-left: 4%;
 	}
 	.port-title-container {
-		left: 0%;
+		left: 30px;
+    	top: 134px;
 	}
 	.carousel {
 		margin-top: 60%;
@@ -252,7 +253,7 @@ h3{
 	}
 	.image{
 		height: 255px;
-		width: 310px
+		width: 345px;
     }
     .airbaby-parallax{
     height: 1100px;
@@ -265,7 +266,10 @@ h3{
 	height: 328px;
     width: 343px;
     border-radius: 5%;
-
+}
+.slides .slick-next {
+	right: 5%;
+	color: #9c5fa3;
 }
 
 

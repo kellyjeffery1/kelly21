@@ -19,7 +19,7 @@ class AboutMe extends Component {
 										<div className="about-text-conatiner1">
 											<p>
 												Front end developer looking to continue an exciting and challenging
-												journey in the tech industry. Determined, disciplined and driving having
+												journey in the tech industry. Determined, disciplined and driven having
 												been the 5x international open water champion of the Algarve and with 5+
 												years work experience across England and Australia. Self-taught and a
 												self-starter with a years worth of personal projects focusing primarily

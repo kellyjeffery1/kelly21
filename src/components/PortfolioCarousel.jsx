@@ -32,7 +32,7 @@ class PortfolioCarousel extends Component {
 										<img className="image" alt="something" src="./images/pic.jpg" />
 									</div>
 									<div>
-										<img className="image" alt="something" src="./images/pic4.jpg" />
+										<img className="image" alt="something" src="./images/pic5.jpg" />
 									</div>
 								</Slider>
 							</div>

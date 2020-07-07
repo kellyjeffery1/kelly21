@@ -212,7 +212,7 @@
         width: 90%;
         margin-left: 5%;
         margin-top: 10%;
-        height: 930px;
+        height: 1012px;
 		border-radius: none;
 	}
 	.about-footer {
@@ -235,6 +235,14 @@
 		margin-top: 0px;
     }
     .about-parallax{
-        height: 1000px;
+           height: 1073px;
+		}
+.me-title {
+    font-family: "Roboto",sans-serif;
+    letter-spacing: 1px;
+    font-weight: 700;
+    color: #1f0322;
+    margin-left: 3%;
+    padding: 10px;
 }
 }

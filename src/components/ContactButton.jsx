@@ -22,7 +22,7 @@ class ContactButtons extends Component {
 										</a>
 									</li>
 									<li className="contact-li">
-										<a target="blank" href="https://twitter.com/home">
+										<a target="blank" href="https://twitter.com/kellyjeffery_">
 											<span />
 											<span />
 											<span />
@@ -31,7 +31,7 @@ class ContactButtons extends Component {
 										</a>
 									</li>
 									<li className="contact-li">
-										<a target="blank" href="https://www.instagram.com/?hl=en">
+										<a target="blank" href="https://www.instagram.com/kellyjeffery1/?hl=en">
 											<span />
 											<span />
 											<span />
