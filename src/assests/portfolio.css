@@ -220,7 +220,7 @@ h3{
 	.portfolio-title {
 		font-size: 72px;
 		margin-left: 4%;
-		margin-top: 18%;
+		margin-top: 40%;
 	}
 	.port-title-container {
 		left: 30px;
@@ -259,7 +259,7 @@ h3{
 	}
 	.image{
 		height: 328px;
-    	width: 373px;
+    	width: 380px;
     	border-radius: 5%;
 	}
 
@@ -272,7 +272,7 @@ h3{
 	}
 	.airbaby-image {
 		height: 328px;
-    	width: 337px;
+    	width: 380px;
     	border-radius: 5%;
 	}
 	

@@ -200,7 +200,7 @@
 	.about-title {
 		font-size: 72px;
     	margin-left: 19%;
-    	margin-top: 75%;
+    	margin-top: 85%;
 	}
 	.image1 {
 		margin-left: 20%;
@@ -215,7 +215,7 @@
         width: 90%;
         margin-left: 5%;
         margin-top: 10%;
-        height: 1012px;
+        height: 990px;
 		border-radius: none;
 	}
 	.about-footer {
@@ -238,7 +238,7 @@
 		margin-top: 0px;
     }
     .about-parallax{
-           height: 1073px;
+           height: 1050px;
 		}
 .me-title {
     font-family: "Roboto",sans-serif;

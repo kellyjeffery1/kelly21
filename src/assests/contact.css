@@ -162,15 +162,16 @@
 	.contact-title {
 		font-size: 72px;
 		margin-left: 4%;
-		margin-top: 50%;
+		margin-top: 60%;
 	}
 	.contact-title-container {
 		left: 3%;
 	}
 	.SM-buttons {
 		position: absolute;
-		margin-top: 25%;
+		margin-top: 30%;
 		margin-left: 0%;
+		margin-bottom: 7%;
 	}
 	.contact-ul .contact-li {
 		position: relative;
