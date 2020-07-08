@@ -119,7 +119,8 @@
 	font-weight: bold;
 	color: #1f0322;
 	margin-left: 10%;
-    margin-bottom: 5%;
+	margin-bottom: 5%;
+	margin-top: 29px;
    
 }
 .airbaby-paragraph {
@@ -252,11 +253,13 @@ h3{
    		margin-top: 0%;
 	}
 	.image{
-		height: 255px;
-		width: 345px;
+		height: 328px;
+    width: 343px;
+    border-radius: 5%;
+}
     }
     .airbaby-parallax{
-    height: 1100px;
+   height: 1149px;
 }
 .airbaby-carousel {
 	margin-top: 20%;
@@ -267,8 +270,13 @@ h3{
     width: 343px;
     border-radius: 5%;
 }
+}
 .slides .slick-next {
 	right: 5%;
+	color: #9c5fa3;
+}
+.slides .slick-next {
+	right: 30%;
 	color: #9c5fa3;
 }
 
