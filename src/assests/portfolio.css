@@ -120,7 +120,6 @@
 	color: #1f0322;
 	margin-left: 10%;
 	margin-bottom: 5%;
-	margin-top: 29px;
    
 }
 .airbaby-paragraph {
@@ -279,7 +278,12 @@ h3{
 		right: 30%;
 		color: #9c5fa3;
 	}
+	.airbaby-title{
+		margin-top: 10px;
+	}
 }
+
+
 
 
 
