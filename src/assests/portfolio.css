@@ -234,9 +234,11 @@ h3{
 		margin-top: 0%;
 		padding: 37px;
 		width: 100%;
+		margin-left: 0px;
 	}
 	.bookmark-paragraph{
 		width: 115%;
+		margin-left: 0px;
 	}
 	.airbaby-container {
 		margin-top: 15%;
@@ -257,12 +259,12 @@ h3{
 	}
 	.image{
 		height: 328px;
-    	width: 360px;
+    	width: 373px;
     	border-radius: 5%;
 	}
 
     .airbaby-parallax{
-   		height: 1149px;
+   		height: 1119px;
 	}
 	.airbaby-carousel {
 		margin-top: 20%;
@@ -270,7 +272,7 @@ h3{
 	}
 	.airbaby-image {
 		height: 328px;
-    	width: 360px;
+    	width: 337px;
     	border-radius: 5%;
 	}
 	
@@ -282,7 +284,7 @@ h3{
 		margin-top: 10px;
 	}
 	.project-section {
-    	margin-top: 115%;
+    	margin-top: 135%;
     	margin-left: 5%;
 	}
 }
