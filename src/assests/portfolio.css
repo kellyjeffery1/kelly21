@@ -243,8 +243,8 @@ h3{
         height: 95%;
 	}
 	.image3{
-    height: 152px;
-	margin-left: 19%;
+    	height: 152px;
+		margin-left: 19%;
 	}
 	.airbaby-section{
 		margin: 0px;
@@ -254,31 +254,32 @@ h3{
 	}
 	.image{
 		height: 328px;
-    width: 343px;
-    border-radius: 5%;
-}
-    }
+    	width: 343px;
+    	border-radius: 5%;
+	}
+
     .airbaby-parallax{
-   height: 1149px;
-}
-.airbaby-carousel {
-	margin-top: 20%;
-	margin-left: 0%;
-}
-.airbaby-image {
-	height: 328px;
-    width: 343px;
-    border-radius: 5%;
-}
-}
-.slides .slick-next {
-	right: 5%;
-	color: #9c5fa3;
-}
-.slides .slick-next {
-	right: 30%;
-	color: #9c5fa3;
+   		height: 1149px;
+	}
+	.airbaby-carousel {
+		margin-top: 20%;
+		margin-left: 0%;
+	}
+	.airbaby-image {
+		height: 328px;
+    	width: 343px;
+    	border-radius: 5%;
+	}
+
+	.slides .slick-next {
+		right: 5%;
+		color: #9c5fa3;
+	}	
+	.slides .slick-next {
+		right: 30%;
+		color: #9c5fa3;
+	}
 }
 
 
-}
+
