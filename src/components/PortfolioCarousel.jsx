@@ -7,6 +7,8 @@ import { Container, Row, Col } from 'reactstrap';
 class PortfolioCarousel extends Component {
 	render() {
 		const settings = {
+			autoplay: true,
+			autoplaySpeed: 2000,
 			infinite: true,
 			fade: true,
 			speed: 500,
@@ -26,10 +28,10 @@ class PortfolioCarousel extends Component {
 										<img className="image" alt="something" src="./images/pic1.jpg" />
 									</div>
 									<div>
-										<img className="image" alt="something" src="./images/pic4.jpg" />
+										<img className="image" alt="something" src="./images/pic6.jpg" />
 									</div>
 									<div>
-										<img className="image" alt="something" src="./images/pic.jpg" />
+										<img className="image" alt="something" src="./images/pic2.jpg" />
 									</div>
 									<div>
 										<img className="image" alt="something" src="./images/pic5.jpg" />

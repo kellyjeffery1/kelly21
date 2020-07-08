@@ -8,6 +8,8 @@ import { Container, Row, Col } from 'reactstrap';
 class Airbaby extends Component {
 	render() {
 		const settings = {
+			autoplay: true,
+			autoplaySpeed: 2000,
 			infinite: true,
 			fade: true,
 			speed: 500,
