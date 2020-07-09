@@ -33,12 +33,11 @@ class Airbaby extends Component {
 											<h2 className="airbaby-title">AIRBABY<span className="full-stop" style={{ color: '#CA8DFB' }}>.</span></h2>
 											<p className="airbaby-paragraph">
 												<p>
-													AirBaby,A market place targeted at money savvy young parents who can
+													AirBaby, a market place targeted at money savvy young parents who can
 													buy and sell baby clothes built with Ruby on Rails, Active Record,
-													Ajax, Map-box, Geocoding, and Cloudinary. Designed the front-end
-													using Figma. Collaborated through Github and deployed using Heroku.
-													On AirBaby they were able to rent clothes, and also put clothes up
-													to rent. Presented in front of 40+ people at the bootcamp.
+													Ajax, Map-box, Geocoding, and Cloudinary. The front-end was designed using Figma. Collaborated through Github and deployed using Heroku.
+													On AirBaby young parents were able to rent clothes, and also put clothes up
+													to rent. This was presented in front of 40+ people at the bootcamp.
 												</p>
 											</p>
 										</div>

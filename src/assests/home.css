@@ -13,7 +13,7 @@
 	padding: 0 40px;
 	position: absolute;
 	margin-top: 30px;
-	margin-left: 33%;
+	margin-left: 38%;
 	z-index: 1;
 	opacity: 0.5;
 }
@@ -129,7 +129,7 @@
 	color: #1f0322;
 	margin-left: 56px;
 }
-.job-title{
+.job-title {
 	margin-left: 3%;
 }
 /* Card */
@@ -138,19 +138,19 @@
 	width: 200px;
 } */
 @media only screen and (max-width: 600px) {
-  .pannels {
-	width: 100%;
-	height: 100%;
-  }
-  .nav{
-	  width: 300px;
-	  margin-left: 57px;
-  }
-  .nav-title{
-	  height: 10%;
-	  padding: 7px;
-  }
-  .second-title{
-	  margin-left: 8%;
-  }
+	.pannels {
+		width: 100%;
+		height: 100%;
+	}
+	.nav {
+		width: 300px;
+		margin-left: 57px;
+	}
+	.nav-title {
+		height: 10%;
+		padding: 7px;
+	}
+	.second-title {
+		margin-left: 8%;
+	}
 }

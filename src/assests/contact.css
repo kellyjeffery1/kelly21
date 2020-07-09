@@ -108,11 +108,7 @@
 }
 .contact-title-container {
 	position: absolute;
-	top: 4%;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: left;
+	top: 64%;
 	left: 8%;
 	height: 100vh;
 	width: 100vw;
@@ -190,7 +186,7 @@
 	.email-container-information {
 		margin-left: 4%;
 	}
-	.contact-ul{
+	.contact-ul {
 		margin: 0px;
 	}
 }

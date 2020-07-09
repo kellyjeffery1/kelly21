@@ -46,9 +46,9 @@ class PortfolioCarousel extends Component {
 								</h2>
 								<p className="bookmark-paragraph">
 									Bookmark, an app where you find recommendations and opinions from the people you
-									trust. The app built with Ruby on Rails,HTML, SCSS, Ajax, Active Record, JavaScript,
-									Cloudinary focused on movie recommendations but can grow to include other media
-									types. Presented in front of 200+ people at the<br /> Barbican Center.
+									trust. The app built with Ruby on Rails, HTML, SCSS, Ajax, Active Record, JavaScript,
+									Cloudinary is focused on movie recommendations but can grow to include other media
+									types. This was presented in front of 200+ people at the<br /> Barbican Center.
 								</p>
 								<a target="blank" href="http://www.bkmthis.com/">
 									Go to the app.

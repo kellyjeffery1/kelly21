@@ -56,8 +56,8 @@ class ContactButtons extends Component {
 								<div className="text-container-information">
 									<h5 className="information-title">LOCATION:</h5>
 									<p className="information-paragrapgh">
-										16 ayrton Gould House,<br />
-										Bethnal Green,<br />
+										16 Ayrton Gould House<br />
+										Bethnal Green<br />
 										E2 OSD
 									</p>
 								</div>

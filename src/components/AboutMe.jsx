@@ -19,8 +19,7 @@ class AboutMe extends Component {
 										<div className="about-text-conatiner1">
 											<p>
 												Front end developer looking to continue an exciting and challenging
-												journey in the tech industry. Determined, disciplined and driven having
-												been the 5x international open water champion of the Algarve and with 5+
+												journey in the tech industry. Determined, disciplined and driven. This comes from being a 5x international open water champion of the Algarve, Portugal. Also with 5+
 												years work experience across England and Australia. Self-taught and a
 												self-starter with a years worth of personal projects focusing primarily
 												on React.
@@ -34,7 +33,7 @@ class AboutMe extends Component {
 												small tech teams, collaborating through Github, Trello and Figma.
 												Exposed to the tech workflow with regular sprints, stand-ups and demos.
 												Taught the following technologies: Javascript, Ruby, Ruby On Rails
-												(framework), HTML5, CSS/sass, and Bootstrap. In the final three weeks,
+												(framework), HTML5, CSS/sass, and Bootstrap. In the final stages,
 												built two detailed web applications from start to finish and presented
 												the final Minimum Viable Product in front of 300+ people at the Barbican
 												Center.
