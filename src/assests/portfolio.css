@@ -104,10 +104,10 @@
 }
 
 .airbaby-container {
-	margin-top: 8%;
+	margin-top: 6%;
 	margin-left: 40%;
 	background-color: whitesmoke;
-	height: 550px;
+	height: 580px;
 	width: 400px;
 	padding: 20px;
 	border-radius: 3%;
@@ -159,8 +159,8 @@ a:hover {
 	color: #1f0322;
 }
 .airbaby-image {
-	width: 370px;
-	height: 480px;
+	width: 501px;
+	height: 369px;
 	border-radius: 5%;
 }
 .project-section {
@@ -213,8 +213,8 @@ h3 {
 	}
 	.portfolio-title {
 		font-size: 80px;
-		margin-left: 4%;
-		margin-top: 45%;
+		margin-left: 0%;
+		margin-top: 85%;
 	}
 	.port-title-container {
 		left: 30px;
