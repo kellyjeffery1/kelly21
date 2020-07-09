@@ -4,6 +4,7 @@ import PortfolioCarousel from './components/PortfolioCarousel';
 import PortfolioFooter from './components/PortfolioFooter';
 import Airbaby from './components/Airbaby';
 import Projects from './components/Projects';
+
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 
@@ -14,8 +15,8 @@ class Portfolio extends Component {
 				<PortfolioHeader />
 				<PortfolioCarousel />
 				<Airbaby />
-				<Projects/>
-					<PortfolioFooter />
+				<Projects />
+				<PortfolioFooter />
 			</div>
 		);
 	}
