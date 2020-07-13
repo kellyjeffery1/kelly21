@@ -16,7 +16,7 @@ class Airbaby extends Component {
 			slidesToShow: 1,
 			slidesToScroll: 1,
 			arrows: false,
-			className: 'slides'
+			className: 'airbaby-slides'
 		};
 		return (
 			<div className="airbaby-section">
@@ -24,20 +24,26 @@ class Airbaby extends Component {
 					bgImage="https://images.unsplash.com/photo-1497412159286-98933a0e327f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1919&q=80"
 					strength={500}
 				>
-					<div className='airbaby-parallax'>
+					<div className="airbaby-parallax">
 						<div className="airbaby-section">
 							<Container fluid>
 								<Row>
 									<Col sm={6}>
 										<div className="airbaby-container">
-											<h2 className="airbaby-title">AIRBABY<span className="full-stop" style={{ color: '#CA8DFB' }}>.</span></h2>
+											<h2 className="airbaby-title">
+												AIRBABY<span className="full-stop" style={{ color: '#CA8DFB' }}>
+													.
+												</span>
+											</h2>
 											<p className="airbaby-paragraph">
 												<p>
-													AirBaby, a market place targeted at money savvy young parents who can
-													buy and sell baby clothes built with Ruby on Rails, Active Record,
-													Ajax, Map-box, Geocoding, and Cloudinary. The front-end was designed using Figma. Collaborated through Github and deployed using Heroku.
-													On AirBaby young parents were able to rent clothes, and also put clothes up
-													to rent. This was presented in front of 40+ people at the bootcamp.
+													AirBaby, a market place targeted at money savvy young parents who
+													can buy and sell baby clothes built with Ruby on Rails, Active
+													Record, Ajax, Map-box, Geocoding, and Cloudinary. The front-end was
+													designed using Figma. Collaborated through Github and deployed using
+													Heroku. On AirBaby young parents were able to rent clothes, and also
+													put clothes up to rent. This was presented in front of 40+ people at
+													the bootcamp.
 												</p>
 											</p>
 										</div>
