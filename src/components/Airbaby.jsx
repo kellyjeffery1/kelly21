@@ -15,7 +15,6 @@ class Airbaby extends Component {
 			speed: 500,
 			slidesToShow: 1,
 			slidesToScroll: 1,
-			arrows: true,
 			className: 'airbaby-slides'
 		};
 		return (
